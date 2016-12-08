@@ -1,0 +1,7 @@
+{
+  "name": "Eiffel-Language",
+  "version": "0.0.1",
+  "description": "Eiffel syntax and color highlighter for Sublime Text",
+  "author": "Thomas Boutin <thomas-boutin@outlook.fr>",
+  "homepage": "https://github.com/Thomas-Boutin/Eiffel-Language"
+}
