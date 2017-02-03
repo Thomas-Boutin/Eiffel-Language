@@ -59,7 +59,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>[a-z_]+(?=(.*:?.*\s+is\s+))</string>
+			<string>[a-z_]+(?=([a-zA-Z_\[\]\(\):,;\s]*\s+is\s+))</string>
 			<key>name</key>
 			<string>storage.type.class_def</string>
 		</dict>
@@ -69,7 +69,6 @@
 			<key>name</key>
 			<string>entity.tag.eiffel</string>
 		</dict>
-
 		<dict>
 			<key>match</key>
 			<string>\s*\b(io)\b</string>
